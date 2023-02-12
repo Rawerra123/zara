@@ -17,15 +17,15 @@
 
 	"PrivacyPolicy": "https://sites.google.com/view/said-developer-privacy",
 	"MoreApps": "",
-	"button1": "Begin",
+	"button1": "Explore kohls App ",
 
 	"BUTTON_NAME_1": "Gmail",
 	"BUTTON_NAME_2": "Outlook",
-	"BUTTON_NAME_3": "Yahoo",
+	"BUTTON_NAME_3": "Shop Now",
 	"BUTTON_NAME_4": "yahoo weather",
 
 	"BUTTON_URL_1": "https://www.gmail.com/",
 	"BUTTON_URL_2": "https://outlook.live.com/",
-	"BUTTON_URL_3": "https://mail.yahoo.com/",
+	"BUTTON_URL_3": "https://www.google.com/",
 	"BUTTON_URL_4": "https://www.yahoo.com/news/weather/"
 }
